@@ -4,8 +4,7 @@
 
 I'm tosin <br/>
 
-You can go through my projects, drop a star if you likey... <br/>
-I'm a Software Developer and I love what I do.<br/>
+I'm a Software Developer, you can go through my projects, drop a star if you likey...<br/>
 
 Don't worry my official website is coming up. Till then,<br/>
 
